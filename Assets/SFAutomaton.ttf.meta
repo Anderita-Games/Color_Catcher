@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: e1e6cb890ce3e5b4dae95d4abdff918e
+timeCreated: 1500354256
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: SF Automaton
+  fontNames:
+  - SF Automaton
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
